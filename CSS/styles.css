@@ -1,0 +1,49 @@
+.jumbotron {
+  background-image: url(/IMG/delani\ 2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: aliceblue;
+}
+.container-1 {
+  background-image: url(/IMG/lap.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: aliceblue;
+}
+.container .thumbnail {
+  display: inline;
+  box-sizing: border-box;
+}
+.header {
+  font-weight: bold;
+  color: black;
+}
+.header-1 {
+  color: aliceblue;
+}
+.container .form-group-1 {
+  float: left;
+}
+.container .form-group-2 {
+  float: right;
+}
+#contact {
+  background-image: url(/IMG/delani.jpg);
+  background-size: cover;
+  height: 70vh;
+}
+.name {
+  float: left;
+}
+.inputEmail {
+  float: right;
+}
+.designHidden {
+  display: none;
+}
+.developmentHidden {
+  display: none;
+}
+.productManagementHidden {
+  display: none;
+}
