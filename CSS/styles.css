@@ -1,11 +1,11 @@
 .jumbotron {
-  background-image: url(/images/h_img.jpg);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: 100%;
   color: aliceblue;
 }
 .container-1 {
-  background-image: url(/images/s_image.jpg);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: 100%;
   color: aliceblue;
