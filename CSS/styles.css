@@ -1,11 +1,11 @@
 .jumbotron {
-  background-image: url(./IMG/delani\ 2.jpg);
+  background-image: url(/images/h_img.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   color: aliceblue;
 }
 .container-1 {
-  background-image: url(./IMG/lap.jpg);
+  background-image: url(/images/s_image.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   color: aliceblue;
@@ -28,7 +28,7 @@
   float: right;
 }
 #contact {
-  background-image: url(./IMG/delani.jpg);
+  background-image: url();
   background-size: cover;
   height: 70vh;
 }
